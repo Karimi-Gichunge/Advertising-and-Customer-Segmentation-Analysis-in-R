@@ -18,17 +18,17 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 Data is provided was collected in the past but from the same blog hence it is very suitable for this study.
 
 **Definition of Variables** 
-Daily Time Spent on Site
-Age
-Area
-Income
-Daily Internet Usage
-Ad Topic Line
-City
-Male
-Country
-Timestamp
-Clicked on Ad
+* Daily Time Spent on Site
+* Age
+* Area
+* Income
+* Daily Internet Usage
+* Ad Topic Line
+* City
+* Male
+* Country
+* Timestamp
+* Clicked on Ad
 
 **Study done using google colab**
 
